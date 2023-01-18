@@ -9,4 +9,4 @@ Find your favorite civilization ending weapon of choice and follow the simple in
 
 ---------------------------------------------------------------
 
-This simple website is built with just HTML5 using very basic tags, and is meant to only demonstrate basic website building skills. 
+This simple website is built with just HTML5 and CSS using basic syntax and techniques, and is meant to only demonstrate basic website building skills. 
