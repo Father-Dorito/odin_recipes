@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+.title-header{
+    text-align: center;
+}
+
+.img{
+    width: 360px;
+    height: auto;
+    align-content: center;
+}
+
+li{
+    font-size: 18px;
+}
